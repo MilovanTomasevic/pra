@@ -1,0 +1,92 @@
+# If you have a `resume.json` file, copy it into `_data` and delete this file.
+# If you don't have a JSON Resume you can just edit this YAML file instead.
+# See also: <https://jsonresume.org/>.
+basics:
+  name: "Pranje Auta "
+  label: "Pranje Auta BA na 065 019 012"
+  picture: "/assets/img/logo.png"
+  email: "PranjeAuta.BA@gmail.com"
+  phone: "+38765019012"
+  website: "https://pranjeauta.ba"
+  summary: >
+    Hvala vam što razmatrate naše usluge Pranje Auta. Ako želite unaprediti svoj prostor čistoće i svežine ili imate specifična pitanja o našim uslugama, slobodno nas kontaktirajte. Naš tim je tu da vam pruži sve potrebne informacije i asistira vam u procesu rezervacije.
+  location:
+    address: "Centar"
+    postalCode: "79000"
+    city: "Prijedor"
+    countryCode: "BA"
+    region: "Republika Srpska"
+  profiles:
+    - network: "Instagram"
+      username: "PranjeAutaBA"
+      url: "https://www.instagram.com/PranjeAutaBA/"
+    - network: "Facebook"
+      username: "PranjeAutaBA"
+      url: "https://www.facebook.com/PranjeAutaBA"
+    - network: "YouTube"
+      username: "PranjeAutaBA"
+      url: "https://www.youtube.com/@PranjeAutaBA"
+    - network: "Twitter"
+      username: "PranjeAutaBA"
+      url: "https://twitter.com/DubinskoCisceBA"
+    - network: "LinkedIn"
+      username: "PranjeAutaBA"
+      url: "https://www.linkedin.com/in/PranjeAutaBA/"
+skills:
+  - name: "Pranje Auta "
+    level: "Master"
+    keywords:
+      - "profesionalno čišćenje"
+      - "održavanje higijene"
+      - "Pranje Auta  tepiha"
+      - "čišćenje prostora"
+  - name: "Restoransko Čišćenje"
+    level: "Master"
+    keywords:
+      - "restoransko održavanje"
+      - "dezinfekcija restorana"
+      - "higijena restorana"
+  - name: "Higijenski Saveti"
+    level: "Master"
+    keywords:
+      - "higijenski trikovi"
+      - "saveti za održavanje čistoće"
+      - "osvežavanje vazduha"
+      - "uklanjanje neprijatnih mirisa"
+languages:
+  - language: "Ex YU"
+    fluency: "Native speaker"
+  - language: "Slovenački"
+    fluency: "Native speaker"
+  - language: "Nemački"
+    fluency: "Native speaker"
+  - language: "Engleski"
+    fluency: "Native speaker"
+references:
+  - name: "Emina"
+    reference: >
+      Zadovoljstvo saradnjom sa PranjeAuta.BA! Ekipa je ne samo profesionalna već i ljubazna. Njihovo Pranje Auta  je transformisalo moj dom. Preporučujem svima koji žele kvalitetnu uslugu i osvežen prostor.
+  
+  - name: "Dino"
+    reference: >
+      Imali smo priliku sarađivati s timom iz PranjeAuta.BA, i rezultati su bili iznad očekivanja. Sjajna ekipa, brza i efikasna usluga. Svaka pohvala za njihovu posvećenost i pažnju prema detaljima.
+  
+  - name: "Lejla"
+    reference: >
+      Sve pohvale za tim PranjeAuta.BA! Naša kuća sada blista, a saradnja je bila veoma prijatna iskustva. Profesionalni pristup i fleksibilnost u radu čine ih pravim liderima u oblasti Pranje Auta.
+
+  - name: "Amar"
+    reference: >
+      Zahvaljujem se timu PranjeAuta.BA na besprekornoj usluzi. Osvežili su naš restoran na način koji je oduševio i naše goste. Profesionalnost i efikasnost su im jača strana. Preporučujemo ih svima!
+  
+  - name: "Mirela"
+    reference: >
+      Iskreno zadovoljstvo saradnjom s PranjeAuta.BA. Njihovo čišćenje stana je transformisalo naš prostor, a ekipa je bila izuzetno ljubazna i pažljiva. Toplo preporučujem njihove usluge!
+
+  - name: "Haris"
+    reference: >
+      Naša firma ima samo reči hvale za tim PranjeAuta.BA. Održali su našu kancelariju besprekorno čistom. Efikasnost i posvećenost poslu su ono što ih izdvaja. Sjajan izbor za profesionalno čišćenje prostora.
+
+  - name: "Amila"
+    reference: >
+      Saradnja sa PranjeAuta.BA je bila pravo osveženje. Osoblje je veoma stručno, prilagodljivo i tačno. Naša porodična kuća sada sija zahvaljujući njihovom dubinskom čišćenju. Preporučujem ih sa zadovoljstvom!
