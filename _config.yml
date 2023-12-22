@@ -51,12 +51,12 @@ author:
 menu:
   - title:             Blog
     url:               /blog/
-  - title:             Usluge Pranje Auta
+  - title:             Usluge Pranja Auta
     url:               /usluge-pranja-auta/
   # - title:             Galerija
   #   url:               /galerija/
-  - title:             Cena Pranje Auta
-    url:               /cena-pranje-auta/
+  - title:             Cena Pranja Auta
+    url:               /cena-pranja-auta/
   - title:             Česta Pitanja
     url:               /cesta-pitanja/
   - title:             Kontakt

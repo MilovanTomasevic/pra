@@ -3,7 +3,7 @@ title: Cena Pranje Auta
 description: >
   Cena Pranje Auta - Pranje Auta  Stanova, Kuća i Restorana
 hide_description: true
-permalink: /cena-pranje-auta/
+permalink: /cena-pranja-auta/
 ---
 
 ## Ponuda za Pranje Auta  na PranjeAuta.BA
