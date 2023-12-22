@@ -2,7 +2,10 @@
 <footer class="content" role="contentinfo">
   <hr/>
   {% if site.copyright.size > 0 %}
-    <p><small class="copyright">&#169; 2021-<script> document.write(new Date().getFullYear()); </script> Pranje Auta BA. Sva prava zadržana.</small></p>
+  <script>
+    var currentYear = new Date().getFullYear();
+    document.write('<p><small class="copyright">&#169; 2021-' + currentYear + ' Pranje Auta BA. Sva prava zadržana.</small></p>');
+  </script>
   {% endif %}
   {% if site.legal.size > 0 %}
     <nav class="legal"><small>
