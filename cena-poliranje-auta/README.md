@@ -11,26 +11,39 @@ permalink: /cena-pranje-auta/
 <script src="https://cdn.lordicon.com/lordicon.js"></script>
 <div class="centered">
 <lord-icon
-    src="https://cdn.lordicon.com/zdebnsrp.json"
+    src="https://cdn.lordicon.com/mzsrkkep.json"
     trigger="loop"
     colors="primary:#25A55F,secondary:#CCCCCC"
     style="width:250px;height:250px">
 </lord-icon>
 </div>
 
-## Usluge
 
-1. **Pranje Auta  tepiha**
-   - Uklonite tvrdokorne mrlje i nečistoće s vaših tepiha uz naše profesionalno Pranje Auta . Osvježite teksturu i boje tepiha te stvorite čist i ugodan prostor.
+## Cenovnik Pranja Auta
 
-2. **Čišćenje tapaciranih površina**
-   - Osvježite svoj namještaj uz našu uslugu čišćenja tapaciranih površina. Uklonite mrlje, mirise i alergene, pružajući svježinu i dugovječnost vašem omiljenom namještaju.
+Dajte svom vozilu sjaj koji zaslužuje uz naše raznovrsne usluge pranja automobila. Pogledajte naš cenovnik i pronađite idealnu opciju za negu vašeg ljubimca na četiri točka.
 
-3. **Pranje madraca**
-   - Za bolji san i higijenu, izaberite naše usluge pranja madraca. Eliminirajte grinje, bakterije i neugodne mirise, pružajući zdraviji okoliš za vašu obitelj.
+### 1. **Vanjsko Sapiranje Automobila**
+   - Cena Usluge: 4 KM
+   - Opis: Osvježite izgled vašeg automobila s brzim i efikasnim vanjskim sapiranjem. Idealno za osnovno čišćenje i uklanjanje prašine i prljavštine sa karoserije.
 
-4. **Namještaj po mjeri**
-   - Osigurajte dugovječnost vašeg namještaja uz naše usluge prilagođene svakom komadu. PranjeAuta.BA vam nudi profesionalno čišćenje za tapacirane površine, drvene elemente i metalne detalje.
+### 2. **Kompletno Pranje Automobila**
+   - Cena Usluge: 20 KM
+   - Opis: Pružite svom vozilu temeljnu negu s kompletnim pranjem. Ova usluga uključuje detaljno čišćenje karoserije, stakala, felni i unutrašnjosti.
+
+### 3. **Premium Pranje (Kompletno + Dubinsko Pranje)**
+   - Cena Usluge: 120 KM
+   - Opis: Iskusite luksuzno iskustvo s našim premium pranjem. Ova ekskluzivna usluga obuhvata sve prednosti kompletnog pranja uz dodatak dubinskog pranja kako biste postigli besprekoran sjaj i higijenu.
+
+### 4. **Pranje Kamiona**
+   - Cena Usluge: 40 KM
+   - Opis: Osvežite izgled vašeg kamiona uz našu uslugu pranja koja obuhvata sve važne dijelove vozila, pružajući mu novu energiju.
+
+### 5. **Dubinsko Pranje Kamiona**
+   - Cena Usluge: 90 KM
+   - Opis: Obezbedite potpunu revitalizaciju vašeg kamiona s dubinskim pranjem. Ova usluga uključuje temeljno čišćenje enterijera i eksterijera, pružajući vašem kamionu izgled kao nov.
+
+Zakažite svoje pranje već danas i prepustite nam brigu o čistoći i izgledu vašeg vozila. Vaš automobil zaslužuje najbolje!
 
 
 <script src="https://cdn.lordicon.com/lordicon.js"></script>
@@ -45,17 +58,15 @@ permalink: /cena-pranje-auta/
 
 ## Cena Pranje Auta
 
-| Usluga Pranje Auta | Cena Usluge  (KM)[^1]    |
-|---------------------------|-------------------|
-| Trosed, Dvosjed, Fotelja ili Ugaona Sedišta | 50 - 80 |
-| Madrac za Bračni Krevet   | 30            |
-| Madrac (obični, 90x200)   | 20            |
-| Francuski Ležaj           | 30            |
-| Dječji Madrac             | 15            |
-| Stolice                   | 5 - 7      |
-| Pranje Tepiha             | 2 - 3 na m²|
-{:.scroll-table}
 
+| Usluga Pranje Auta                          | Cena Usluge (KM)[^1] |
+|---------------------------------------------|---------------|
+| Vanjsko sapiranje automobila                | 4             |
+| Kompletno pranje automobila                 | 20            |
+| Premium pranje (kompletno + dubinsko pranje)| 120           |
+| Pranje kamiona                              | 40            |
+| Dubinsko pranje kamiona                     | 90            |
+{:.scroll-table}
 
 <div class="centered">
 <lord-icon
@@ -66,4 +77,4 @@ permalink: /cena-pranje-auta/
 </lord-icon>
 </div>
 
-[^1]: **Napomena: Ove cene su okvirne i mogu se prilagoditi prema veličini prostora i specifičnim zahtevima. Kontaktirajte nas putem telefona na [065 019 012](tel:+38765019012) za tačnu procenu i rezervišite termin pranja ili čišćenja..**
+[^1]: **Napomena:** Ove cene su okvirne i mogu se prilagoditi prema veličini vozila i specifičnim zahtevima. Važno nam je da vam pružimo tačnu procenu kako bismo zadovoljili sve vaše potrebe. Kontaktirajte nas putem telefona na [065 019 012](tel:+38765019012) kako bismo razgovarali o vašim specifičnostima i dogovorili tačan termin za pranje ili čišćenje vašeg vozila. Vaša potpuna zadovoljstva naša je prioritet, i radujemo se saradnji s vama! 🚗💦✨
