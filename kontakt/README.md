@@ -2,8 +2,8 @@
 layout: resume
 title: Kontakt
 description: >
-  Ne ustručavajte se kontaktirati nas za sve vaše potrebe vezane za čišćenje. Radujemo se saradnji s vama i stvaranju prostora u kojem možete uživati.
-hide_description: true
+  Vaše vozilo zaslužuje vrhunsku negu, a mi smo tu da je pružimo. Kontaktirajte nas putem telefona na [065 019 012](tel:+38765019012) kako biste rezervisali termin ili saznali više o našim uslugama pranja automobila. Vaš automobil će vam biti zahvalan! 🚗💦
+hide_description: false
 left_column:
   - work
   - volunteer
