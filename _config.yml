@@ -52,7 +52,7 @@ menu:
   - title:             Blog
     url:               /blog/
   - title:             Usluge Pranje Auta
-    url:               /usluge-pranje-auta/
+    url:               /usluge-pranja-auta/
   # - title:             Galerija
   #   url:               /galerija/
   - title:             Cena Pranje Auta
@@ -306,7 +306,7 @@ collections:
     output:            true
 
   projects:
-    permalink:         /usluge-pranje-auta/:path/
+    permalink:         /usluge-pranja-auta/:path/
     output:            true
 
 

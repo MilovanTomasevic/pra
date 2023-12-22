@@ -7,12 +7,14 @@ description: >
   Pranje Auta BA na 065 019 012 ! Profesionalna Higijena za Vaše Prostore u Prijedoru, Banjaluci, Sanskom Mostu i Novom Gradu!
 hide_description: true
 selected_projects:
-- _projects/dubinsko-ciscenje-doma.md
-- _projects/restoransko-ciscenje.md
-more_projects: usluge-pranje-auta.md
+- _projects/dubinsko-ciscenje-ba.md
+- _projects/dubinsko-pranje-ba.md
+- _projects/poliranje-auta-ba.md
+- _projects/pranje-auta-ba.md
+more_projects: usluge-pranja-auta.md
 selected_posts:
-  - sa-poliranjem-auta/_posts/2023-09-01-ocistite-kancelariju-nakon-timskog-okupljanja-radno-mesto-bez-nereda.md
-  - sa-poliranjem-auta/_posts/2023-09-02-dubinsko-ciscenje-za-sve-generacije-ocistite-sa-stilom.md
+  - sa-pranjem-auta-ba/_posts/2023-11-14-kako-ocistiti-automobil-nakon-letnjeg-putovanja.md
+  - sa-pranjem-auta-ba/_posts/2023-09-02-saveti-za-pranje-auta-sa-posebnim-efektima.md
 more_posts: posts.md
 featured: true
 ---
