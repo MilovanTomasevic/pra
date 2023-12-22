@@ -21,35 +21,40 @@ Dobrodošli na našu stranicu Česta Pitanja, gde želimo olakšati vaše iskust
 - Table of Contents
 {:toc}
 
-### P: Kako se razlikuje Pranje Auta  od redovnog čišćenja?
-   - *O: Pranje Auta  ide korak dalje, fokusirajući se na temeljnu higijenu i detalje koji često prolaze neprimećeno u redovnom čišćenju.*
+Naravno, evo nekoliko pitanja i odgovora za sekciju Česta Pitanja o pranju auta:
 
-### P: Koliko često preporučujete Pranje Auta  stana?
-   - *O: Preporučujemo Pranje Auta  stana najmanje jednom godišnje, dok bi restorani mogli zahtevati češće čišćenje, zavisno o intenzitetu korišćenja.*
+---
 
-### P: Da li koristite ekološki prihvatljive proizvode za čišćenje?
-   - *O: Da, angažujemo se da koristimo ekološki prihvatljive proizvode koji su efikasni u čišćenju, ali ne štete okolini.*
+### Kako često bih trebao/la prati svoj automobil?
+**Odgovor:** Preporučujemo redovno pranje vozila, idealno svake 2 do 4 nedelje, u zavisnosti od lokalnih uslova, vremena i vaše upotrebe vozila.
 
-### P: Kako se vrši organizacija prostora u sklopu vaših usluga?
-   - *O: Naši stručnjaci će s vama sarađivati kako bismo razumeli vaše potrebe i prilagodili organizaciju prostora prema vašem životnom stilu.*
+### Šta je inkluzivno u kompletnom pranju automobila?
+**Odgovor:** Kompletno pranje automobila uključuje detaljno čišćenje karoserije, stakala, felni i unutrašnjosti vozila. To obuhvata sveobuhvatan tretman kako bi vaš automobil izgledao besprekorno.
 
-### P: Koja je procedura za restoransko čišćenje tokom radnog vremena?
-   - *O: Radimo sa restoranima da razvijemo plan čišćenja koji najmanje ometa poslovanje. Često obavljamo čišćenje van radnog vremena.*
+### Da li su cene navedene na sajtu konačne?
+**Odgovor:** Cene su okvirne i mogu se prilagoditi prema veličini vozila i specifičnim zahtevima. Za tačnu procenu, kontaktirajte nas putem telefona.
 
-### P: Da li nudite specijalne pakete za redovne klijente?
-   - *O: Da, imamo različite pakete i programa lojalnosti za redovne klijente kako bismo im omogućili povoljnosti i dodatne usluge. Pogledajte našu stranicu sa cenama.*
+### Koliko traje proces dubinskog pranja kamiona?
+**Odgovor:** Proces dubinskog pranja kamiona zavisi od veličine kamiona i stepena prljavštine, ali prosečno traje između 2 do 4 sata.
 
-### P: Kako rezervisati termin za čišćenje?
-   - *O: Rezervaciju možete obaviti putem našeg sajta, telefonom ili direktnim posetom našem sedištu.*
+### Da li nudite usluge pranja unutrašnjosti vozila?
+**Odgovor:** Da, pružamo usluge dubinskog čišćenja unutrašnjosti vozila, uključujući sedišta, tepihe, konzolu i druge površine.
 
-### P: Koliko vremena je potrebno za Pranje Auta  stana?
-   - *O: Vreme zavisi od veličine stana i opsega čišćenja. Procena se daje prilikom dogovora o terminu.*
+### Da li se moram unapred zakazati?
+**Odgovor:** Preporučujemo zakazivanje termina kako bismo vam obezbedili najbolju uslugu. Kontaktirajte nas telefonom ili putem online rezervacije.
 
-### P: Da li koristite specifične tehnike za čišćenje restorana?
-   - *O: Da, koristimo specifične tehnike prilagođene restoranima, uključujući dezinfekciju kuhinjskih površina, toaleta i prostora za goste.*
+### Kako mogu platiti usluge pranja?
+**Odgovor:** Prihvatamo gotovinu i kartično plaćanje. Plaćanje se vrši nakon završetka usluge.
 
-### P: Da li nudite hitne intervencije za hitne situacije poput prokišnjavanja ili nesreća u restoranu?
-   - *O: Da, imamo timove spremne za hitne intervencije kako bismo rešili nepredviđene situacije u najkraćem mogućem roku.*
+### Koji proizvodi se koriste pri pranju vozila?
+**Odgovor:** Koristimo visokokvalitetne proizvode prilagođene različitim tipovima vozila. Svi proizvodi su bezbedni za boje i materijale.
+
+### Da li nudite pakete za redovno održavanje vozila?
+**Odgovor:** Da, nudimo različite pakete za redovno održavanje vozila po povoljnim cenama. Pogledajte našu ponudu ili nas kontaktirajte za više informacija.
+
+### Šta ako nisam zadovoljan/la sa pranjem?
+**Odgovor:** Vaše zadovoljstvo je naš prioritet. Ako niste zadovoljni, molimo vas da nas odmah obavestite kako bismo pronašli rešenje i poboljšali vaše iskustvo.
+
 
 <div class="centered">
 <lord-icon
