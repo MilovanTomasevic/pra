@@ -4,7 +4,7 @@ cover: true
 title: Pranje Auta BA na 065 019 012
 image: /assets/img/logo.png
 description: >
-  Pranje Auta BA na 065 019 012 ! Profesionalna Higijena za Vaše Prostore u Prijedoru, Banjaluci, Sanskom Mostu i Novom Gradu!
+  Pranje Auta BA na 065 019 012 ! Nudimo vrhunsku uslugu pranja i održavanja automobila na teritoriji Bosne i Hercegovine, sa fokusom na gradove Prijedor, Banja Luka, Sanski Most i Novi Grad.
 hide_description: true
 selected_projects:
 - _projects/dubinsko-ciscenje-ba.md
